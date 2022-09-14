@@ -1,6 +1,6 @@
-<h1>CubosFlix</h1>
+<h1>Desafio | Front-end - Módulo 2 </h1>
 
-<p>Projeto realizado para finalizar o módulo 2 da Cubos Academy</p>
+<p>Projeto realizado para finalizar o módulo 2 da Cubos Academy - Cubos Flix</p>
 
 <h2>Tecnologias usadas para desenvolver o projeto </h2>
 <ul>
