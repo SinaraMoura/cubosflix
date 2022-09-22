@@ -10,6 +10,4 @@
 <li>CSS dinâmico e persistência com localstorage (para criar o modo noturno)</li>
 </ul>
 
-## Acesse o projeto aqui 
 
-<a> http://www.cubosflix.com.br/ </a>
